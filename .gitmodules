@@ -1,0 +1,3 @@
+[submodule "burrowswheeler/ukkonen"]
+	path = burrowswheeler/ukkonen
+	url = https://github.com/apap77/ukkonen
